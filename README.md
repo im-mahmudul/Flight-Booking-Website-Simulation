@@ -1,4 +1,4 @@
-#Flight Booking Website Simulation
+Flight Booking Website Simulation
 Welcome to the Flight Booking Website Simulation! This project is a simple web-based simulation for a flight booking platform, built using only HTML and CSS. The goal of this project is to create a visually appealing and user-friendly interface that simulates the experience of booking a flight online.
 
 Project Status
