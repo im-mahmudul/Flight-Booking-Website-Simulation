@@ -25,7 +25,7 @@ To view and explore the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flight-booking-simulation.git
+   git clone https://github.com/im-mahmudul/flight-booking-simulation.git
    ```
 2. Navigate to the project folder:
    ```bash
